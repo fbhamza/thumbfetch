@@ -1,0 +1,5 @@
+{
+  "name": "ThumbFetch",
+  "description": "A lightweight web app to extract and download YouTube video thumbnails in all available resolutions. Paste a YouTube URL or video ID to instantly get downloadable images.",
+  "requestFramePermissions": []
+}
